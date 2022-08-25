@@ -1,5 +1,6 @@
 # Black Desert Boss Notify
 A simple to notify boss coming by discord channel
+
 透過 Discord 頻道通知世界王即將來臨的訊息
 
 # 需求
