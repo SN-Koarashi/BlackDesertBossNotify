@@ -1,0 +1,1 @@
+global.guilds = require("./guilds.json");

@@ -1,0 +1,16 @@
+{
+  "name": "bdo-bot",
+  "main": "main.js",
+  "author": "5026",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "13.6.0",
+    "fs-extra": "latest",
+	"@discordjs/rest": "latest",
+	"@discordjs/builders": "latest",
+	"discord-api-types": "latest"
+  }
+}
